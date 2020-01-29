@@ -1,0 +1,42 @@
+{'dwarf':
+    {'name': 'dwarf',
+    'size': 'medium',
+    'bspeed': 20,
+    'blang': ['common', 'dwarven'],
+    'abilityscores': ['0', '+2', '0', '0', '+2', '-2']},
+'human':
+    {'name': 'human',
+    'size': 'medium',
+    'bspeed': 30,
+    'blang': ['common'],
+    'abilityscores': ['v', 'v', 'v', 'v', 'v', 'v']},
+'elf':
+    {'name': 'elf',
+    'size': 'medium',
+    'bspeed': 30,
+    'blang': ['common', 'elven'],
+    'abilityscores': ['0', '-2', '+2', '+2', '0', '0']},
+'half-elf':
+    {'name': 'half-elf',
+    'size': 'medium',
+    'bspeed': 30,
+    'blang': ['common', 'elven'],
+    'abilityscores': ['v', 'v', 'v', 'v', 'v', 'v']},
+'half-orc':
+    {'name': 'half-orc',
+    'size': 'medium',
+    'bspeed': 30,
+    'blang': ['common', 'orc'],
+    'abilityscores': ['v', 'v', 'v', 'v', 'v', 'v']},
+'halfling':
+    {'name': 'halfling',
+    'size': 'small',
+    'bspeed': 20,
+    'blang': ['common', 'halfling'],
+    'abilityscores': ['-2', '0', '+2', '0', '0', '+2']},
+'gnome':
+    {'name': 'gnome',
+    'size': 'small',
+    'bspeed': 20,
+    'blang': ['common', 'gnome', 'sylvan'],
+    'abilityscores': ['-2', '+2', '0', '0', '0', '+2']}}
